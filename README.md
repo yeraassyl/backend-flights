@@ -1,6 +1,8 @@
-# Backend CRUD & logic for flight booking.
+# Flight booking crud application.
 
-App implemented using Typed Akka Actor System
+Implemented using akka typed actors
+
+> Archived
 
 ## Author
 * Yerassyl Bakytnuruly - [yerassyl](https://github.com/yeraassyl)
