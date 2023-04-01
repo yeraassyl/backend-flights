@@ -1,4 +1,4 @@
-# Flight booking crud application.
+# Flight booking application.
 
 Implemented using akka typed actors
 
