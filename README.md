@@ -1,4 +1,4 @@
-# Flight booking application.
+# Flight booking server application.
 
 Implemented using akka typed actors
 
